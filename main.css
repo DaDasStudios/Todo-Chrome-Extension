@@ -1,0 +1,8 @@
+
+.disabled {
+    display: none;
+}
+
+.actived {
+    display: block;
+}
